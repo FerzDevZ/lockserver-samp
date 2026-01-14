@@ -90,7 +90,6 @@ Plugin ini bekerja pada level **Network Hook** (open.mp) atau **OnPlayerRequestC
 ## 💎 Kredit | Credits
 - **FERZDEVZ** - Author & Project Lead.
   - 📺 [Youtube: Ferzsampp](https://youtube.com/@Ferzsampp)
-  - 📸 [Instagram: ferzchills](https://instagram.com/ferzchills)
   - 💬 [Discord: ferzdevz](https://discord.gg/ferzdevz)
 
 ---
