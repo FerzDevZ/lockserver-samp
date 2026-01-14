@@ -1,4 +1,4 @@
-# 🏟️ FerzRP - MODERN RUNNER (Server Lock) 🔐
+# 🏟️ FERZDEVZ - MODERN RUNNER (Server Lock) 🔐
 
 ![Version](https://img.shields.io/badge/Version-2.5-blue.svg)
 ![Platform](https://img.shields.io/badge/Platform-SA--MP%20%7C%20open.mp-orange.svg)
@@ -10,6 +10,9 @@ Solusi maintenance mode paling komprehensif dan profesional untuk server **SA-MP
 ---
 
 ## 📺 Visual Demo
+![FERZDEVZ Banner](file:///home/ferdinand/.gemini/antigravity/brain/f5024391-d8a7-4651-9b39-e27e06f55f08/ferzdevz_lock_banner_1768373014622.png)
+*Professional branding for FERZDEVZ - MODERN RUNNER.*
+
 ![Maintenance Dialog Mockup](file:///home/ferdinand/.gemini/antigravity/brain/f5024391-d8a7-4651-9b39-e27e06f55f08/locksystem_dialog_mockup_1768371847716.png)
 *Tampilan profesional dialog maintenance saat pemain mencoba masuk.*
 
@@ -85,11 +88,10 @@ Plugin ini bekerja pada level **Network Hook** (open.mp) atau **OnPlayerRequestC
 ---
 
 ## 💎 Kredit | Credits
-- **FerzDevZ** (FerzRP) - Original Idea & Project Lead.
+- **FERZDEVZ** - Author & Project Lead.
   - 📺 [Youtube: Ferzsampp](https://youtube.com/@Ferzsampp)
   - 📸 [Instagram: ferzchills](https://instagram.com/ferzchills)
   - 💬 [Discord: ferzdevz](https://discord.gg/ferzdevz)
-- **Antigravity** - Technical Implementation & Documentation.
 
 ---
 

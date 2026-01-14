@@ -1,8 +1,9 @@
 /*
 ================================================================
-    FerzRP - MODERN RUNNER (Legacy)
+    FERZDEVZ - MODERN RUNNER (Legacy)
     ------------------------------------------------------------
-    Author      : FerzDevZ
+    Script      : LockSystem / Maintenance Mode
+    Author      : FERZDEVZ
     Base        : FerzGamemodeZero
     Version     : 2.5 (Ultimate Patch)
     

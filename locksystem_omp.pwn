@@ -1,8 +1,9 @@
 /*
 ================================================================
-    FerzRP - MODERN RUNNER (open.mp)
+    FERZDEVZ - MODERN RUNNER (open.mp)
     ------------------------------------------------------------
-    Author      : FerzDevZ
+    Script      : LockSystem / Maintenance Mode
+    Author      : FERZDEVZ
     Base        : FerzGamemodeZero
     Version     : 2.5 (Ultimate Patch)
     
